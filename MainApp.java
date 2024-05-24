@@ -2,8 +2,8 @@ import interfaces.Phone;
 import java.util.Scanner;
 
 public class MainApp {
-    /*Main App */
     public static void main(String[] args) {
+        System.out.println("Rafki Desramadhan");
         Phone redmiNote10 = new Xiaomi();
 
         PhoneUser dian = new PhoneUser(redmiNote10);
