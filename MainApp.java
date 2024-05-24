@@ -2,6 +2,7 @@ import interfaces.Phone;
 import java.util.Scanner;
 
 public class MainApp {
+    /*Main App */
     public static void main(String[] args) {
         Phone redmiNote10 = new Xiaomi();
 
